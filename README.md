@@ -6,3 +6,4 @@ The following skills are shown in this website:
 - Links
 - Images
 - Ordered and unordered lists
+- HTML attributes
