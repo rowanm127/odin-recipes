@@ -1,0 +1,40 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: rgb(255, 227, 205);
+}
+
+h1, h2, h3 {
+    font-family: Georgia, "Times New Roman", serif;
+    color: rgb(100, 81, 225);
+}
+
+h1 {
+    font-size: 48px;
+}
+
+p, a, li {
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 18px;
+}
+
+.title {
+    text-align: center;
+}
+
+.content {
+    background-color: rgb(211, 211, 255);
+    margin: auto;
+    width: 50%;
+    border:5px, solid, rgb(100, 81, 225);
+    padding: 10px;
+}
+
+.content img {
+    display: block;
+    margin: auto;
+    max-height: 500px;
+    max-width: 100%;
+}
